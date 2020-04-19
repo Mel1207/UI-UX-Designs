@@ -1,0 +1,1 @@
+Millenium Dashboard - I created a sample of a dashboard for a dummy company, this dashboard shows a bar graph and other component to deliver an immediate information to admin in just one look or login.
